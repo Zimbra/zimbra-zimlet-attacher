@@ -1,6 +1,6 @@
 # Adding attachments from a Zimlet
 
-This article explains how to write a Zimlet that allows a user to attach files from a thrid party service. This way users can attach files from any service you wish to integrate directly from Zimbra. If you are new to Zimlets please take a look at the previous article at https://github.com/Zimbra/zm-zimlet-guide.
+This article explains how to write a Zimlet that allows a user to attach files from a third party service. This way users can attach files from any service you wish to integrate directly from Zimbra. If you are new to Zimlets please take a look at the previous article at https://github.com/Zimbra/zm-zimlet-guide.
 
 ## Prerequisites 
 
